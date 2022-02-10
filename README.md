@@ -84,7 +84,9 @@ goto DDOS
 
 2) when u are in the notepad dont forget to remove the Spaces of the code otherwise it wont work
 
-3) enter the target server, the ip and how many packets u want to send to the Server
+3) its a batch file so save it as whateveruwant.bat
+
+4) enter the target server, the ip and how many packets u want to send to the Server
 
 
 Enjoy
