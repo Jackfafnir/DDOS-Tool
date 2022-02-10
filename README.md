@@ -7,8 +7,10 @@ Anonymous DDOS-Tool
 
 # About
   
- A script to Attack http(s) servers
-make sure u have a vpn installed
+ A script to Attack http(s) servers                                                
+ 
+make sure u have a vpn installed                
+
 how to install a vpn here:https://youtu.be/te8KE71ndso
 
 
