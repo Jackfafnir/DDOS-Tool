@@ -90,7 +90,7 @@ goto DDOS
 
 1.  enter the server target 
 
-3.  it will automatic ping the Host. As shown in the Screenshot below:
+3.  it will automatically ping the Host. As shown in the Screenshot below:
 
 ![ok](https://user-images.githubusercontent.com/97392345/153502726-2b3df918-cdad-4388-84ab-5b08477c6ad1.PNG)
 3. Now enter the ip . (u got it from the ping)
