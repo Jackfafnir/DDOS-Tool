@@ -83,9 +83,9 @@ ping %m% -i %n% -t >nul
 goto DDOS
 
 2) its a batch file so save it as whateveruwant.bat
-3) 
+
 4) enter the target server, the ip and how many packets u want to send to the Server
-5) 
+
 Enjoy
 
 
