@@ -95,7 +95,7 @@ goto DDOS
 ![ok](https://user-images.githubusercontent.com/97392345/153502726-2b3df918-cdad-4388-84ab-5b08477c6ad1.PNG)
 3. Now enter the ip . (u got it from the ping)
 
-5. Now enter how many Threads/Packets u want to send to the server
+4. Now enter how many Threads/Packets u want to send to the server
 
 Enjoy
 
