@@ -19,7 +19,7 @@ how to install a vpn here: https://youtu.be/te8KE71ndso
 ![Unbenannt](https://user-images.githubusercontent.com/97392345/153496914-2f9daae4-6c52-42c6-83b3-5df5f23ee946.PNG)
 
 
-# Installation
+# Installation 
 
  1) Copy the folllowing code to youre Notepad:
  
